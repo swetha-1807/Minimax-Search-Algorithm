@@ -279,7 +279,8 @@ if __name__ == "__main__":
 
 ### Output
 
-
+![Image1](https://github.com/swetha-1807/Minimax-Search-Algorithm/blob/main/Screenshot%202026-03-15%20181808.png)
+![Image2](https://github.com/swetha-1807/Minimax-Search-Algorithm/blob/main/Screenshot%202026-03-15%20181818.png)
 
 <hr>
 <h2>Result:</h2>
